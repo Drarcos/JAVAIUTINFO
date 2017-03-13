@@ -1,2 +1,0 @@
-# JavaIutInfo
-TP de Java
